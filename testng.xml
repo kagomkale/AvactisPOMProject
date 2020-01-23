@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Avactis_Demo_Automation">
+ <listeners>
+        <listener class-name="com.ontestautomation.extentreports.listener.ExtentReporterNG" />
+    </listeners>
+
+  	<test name="testngTest">
+  	<packages>
+            <package name="com.avactis.qa.testcases" />
+        </packages>
+ 
+ 		<!-- <classes>
+		 <class name="com.avactis.qa.testcases.CheckOutPageTest" />
+ 		</classes> -->
+ 		
+ 	</test>
+</suite>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Shipping and Billing verified]]>
+    </line>
+    <line>
+      <![CDATA[User is Logged out and application is closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102104" started-at="2020-01-16T06:35:47Z" finished-at="2020-01-16T06:37:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102104" started-at="2020-01-16T06:35:47Z" finished-at="2020-01-16T06:37:29Z">
+      <class name="com.avactis.qa.testcases.CheckOutPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.avactis.qa.testcases.CheckOutPageTest@73ad2d6]" name="setUp" is-config="true" duration-ms="54499" started-at="2020-01-16T06:35:47Z" finished-at="2020-01-16T06:36:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddItemsToCart()[pri:0, instance:com.avactis.qa.testcases.CheckOutPageTest@73ad2d6]" name="AddItemsToCart" duration-ms="46125" started-at="2020-01-16T06:36:42Z" finished-at="2020-01-16T06:37:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Shipping and Billing verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AddItemsToCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.avactis.qa.testcases.CheckOutPageTest@73ad2d6]" name="tearDown" is-config="true" duration-ms="1319" started-at="2020-01-16T06:37:28Z" finished-at="2020-01-16T06:37:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[User is Logged out and application is closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.avactis.qa.testcases.CheckOutPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

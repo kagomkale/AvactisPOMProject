@@ -1,0 +1,15 @@
+2020-01-16 11:31:30,604 INFO  [Log4j] New driver instantiated 
+2020-01-16 11:31:30,648 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2020-01-16 11:31:34,533 INFO  [Log4j] Web application launched 
+2020-01-16 11:56:26,128 INFO  [Log4j] Testing started 
+2020-01-16 11:56:59,925 INFO  [Log4j] Successful Signup 
+2020-01-16 11:57:13,900 INFO  [Log4j] One Item added to cart 
+2020-01-16 11:57:25,031 INFO  [Log4j] Second item added to cart 
+2020-01-16 11:57:41,929 INFO  [Log4j] third item added to cart 
+2020-01-16 11:58:02,054 INFO  [Log4j] Browser closed 
+2020-01-16 12:06:19,214 INFO  [CheckOutPageTest] Testing started 
+2020-01-16 12:06:37,439 INFO  [CheckOutPageTest] Successful Signup 
+2020-01-16 12:06:51,548 INFO  [CheckOutPageTest] One Item added to cart 
+2020-01-16 12:07:02,195 INFO  [CheckOutPageTest] Second item added to cart 
+2020-01-16 12:07:15,323 INFO  [CheckOutPageTest] third item added to cart 
+2020-01-16 12:07:29,789 INFO  [CheckOutPageTest] Browser closed 
